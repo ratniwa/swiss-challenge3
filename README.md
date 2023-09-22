@@ -1,5 +1,5 @@
 
-### network swisstronik 
+### SWISSTRONIK CHALLENGE 3
 
 #### Req
 
